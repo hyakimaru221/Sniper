@@ -1,4 +1,5 @@
 > Instale isso no CMD antes.
+
 `pip install pyautogui`
 
 ---
