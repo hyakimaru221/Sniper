@@ -3,7 +3,7 @@
 
 ---
 
-**Copia e cola:**
+**Copia e cola:** salva como coords.py (ou qualquer outro nome que termine .py)
 
 ```
 import pyautogui
