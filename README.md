@@ -1,3 +1,6 @@
+> Instale isso no CMD antes.
+`pip install pyautogui`
+
 import pyautogui
 import time
 
