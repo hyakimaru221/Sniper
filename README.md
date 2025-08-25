@@ -1,6 +1,11 @@
 > Instale isso no CMD antes.
 `pip install pyautogui`
 
+---
+
+**Copia e cola:**
+
+```
 import pyautogui
 import time
 
@@ -18,3 +23,4 @@ try:
         time.sleep(1)
 except KeyboardInterrupt:
     print('\n--- Mira travada. ---')
+```
